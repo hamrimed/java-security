@@ -5,7 +5,7 @@ This README serves as a checklist to explore and implement the diverse features 
 ## Cryptography
 - [ ] Implement symmetric encryption (e.g., AES)
 - [ ] Implement asymmetric encryption (e.g., RSA)
-- [ ] Use message digest algorithms (e.g., SHA-256)
+- [✅] Use message digest algorithms (e.g., SHA-256)
 - [ ] Generate and verify digital signatures
 - [ ] Perform password-based encryption (PBE)
 - [ ] Explore Elliptic Curve Cryptography (ECC)
